@@ -6,6 +6,8 @@
 ## My skills
 
 #### HTML5 , CSS3 , JavaScript (loading...)
+---
 [Linkedin account](https://www.linkedin.com/in/amin-reza-asadi/)
+
 [Telegram](https://telegram.me/AminReza1377)
 
